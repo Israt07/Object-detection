@@ -45,7 +45,7 @@ Figure 1 shows the AI output of detecting object in a street.
 
 
 
-## E   TRAINING THE COVID-19 FACE MASK DETECTION
+## E   TRAINING THE OBJECT DETECTION
 
 - Coming Soon
 
